@@ -1,5 +1,5 @@
 ## Hi there 👋
-We are the <ins>GGD Orginizaton</ins>
+We are the <ins>GGD organization</ins>
 <!--
 
 **Here are some ideas to get you started:**
